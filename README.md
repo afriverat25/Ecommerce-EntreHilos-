@@ -1,6 +1,8 @@
-# 🚀 E-CROCHET SHOP: Product Management Platform (C\# & React)
+# 🧶 EntreHilosCrochet - E-commerce System
 
-This project implements an e-commerce platform specializing in crochet products, featuring a robust **ASP.NET Core (C\#)** backend for data management and a comprehensive frontend user and admin interface built with **React.js**.
+## 📋 Descripción
+Este proyecto es una aplicación web desarrollada en **.NET 8 (Web API)** y **React**, que permite la gestión completa de una tienda en línea enfocada en productos artesanales de crochet.  
+Cuenta con dos paneles de control (dashboards): uno para **usuarios** y otro para **administradores**, cada uno con diferentes permisos y funcionalidades.
 
 ***
 
@@ -69,18 +71,67 @@ Follow these steps to set up both the backend and frontend on your local environ
 
 ***
 
-## 🔑 Key API Endpoints
+## 🧭 Dashboards del Sistema
 
-These are the core endpoints implemented for product and user management.
+### 👤 Dashboard de Usuario
 
-| Module | Endpoint (Route) | HTTP Verb | Description |
-| :--- | :--- | :--- | :--- |
-| **Admin** | `/api/Admin/addUpdateProductWithFile` | `POST` | Adds or updates a product (handles `[FromForm]` data and file upload). |
-| **Admin** | `/api/Admin/deleteProduct/{id}` | `DELETE` | Deletes a product by ID. |
-| **Users** | `/api/Users/getUserProfile/{userId}` | `GET` | Retrieves a user's profile details. |
-| **Users** | `/api/Users/updateUserProfile` | `PUT` | Updates the user's name, last name, and password. |
+El **dashboard de usuario** permite a los clientes registrarse, iniciar sesión y realizar compras de manera sencilla.
 
-***
+**Funciones principales:**
+- Registro e inicio de sesión.  
+- Edición del perfil de usuario.  
+- Visualización y exploración de productos.  
+- Agregar productos al carrito de compras.  
+- Realizar pedidos y consultar su historial.  
+
+**APIs relacionadas:**
+| Método | Endpoint | Descripción |
+|--------|-----------|-------------|
+| POST | `/api/Users/registration` | Registro de usuario |
+| POST | `/api/Users/login` | Inicio de sesión |
+| POST | `/api/Users/updateProfile` | Actualizar perfil |
+| GET | `/api/Users/getUserProfile/{userId}` | Obtener perfil de usuario |
+| POST | `/api/Products/addToCar` | Agregar producto al carrito |
+| POST | `/api/Products/placeOrder` | Realizar pedido |
+| GET | `/api/Users/getOrdersByUserId/{userId}` | Consultar órdenes del usuario |
+
+---
+
+### 🛠️ Dashboard de Administrador
+
+El **dashboard de administrador** está diseñado para gestionar todo el sistema, incluyendo usuarios, productos y pedidos.
+
+**Funciones principales:**
+- Crear, editar o eliminar productos.  
+- Subir imágenes de productos.  
+- Consultar usuarios registrados.  
+- Asignar roles y administrar fondos.  
+- Visualizar, actualizar o eliminar pedidos.  
+
+**APIs relacionadas:**
+| Método | Endpoint | Descripción |
+|--------|-----------|-------------|
+| POST | `/api/Admin/addUpdateProduct` | Crear o actualizar producto |
+| POST | `/api/Admin/addUpdateProductWithFile` | Crear/editar producto con imagen |
+| GET | `/api/Admin/getAllProducts` | Listar todos los productos |
+| DELETE | `/api/Admin/deleteProduct/{id}` | Eliminar producto |
+| GET | `/api/Admin/userList` | Listar usuarios |
+| PUT | `/api/Admin/updateRole` | Cambiar rol de usuario |
+| PUT | `/api/Admin/addFunds` | Agregar fondos a usuario |
+| GET | `/api/Admin/getAllOrders` | Listar todas las órdenes |
+| PUT | `/api/Admin/updateStatus/{orderId}/{newStatus}` | Actualizar estado de orden |
+| DELETE | `/api/Admin/deleteUser/{id}` | Eliminar usuario |
+| DELETE | `/api/Admin/deleteOrder/{orderId}` | Eliminar orden |
+
+---
+
+## 🌐 Documentación de la API
+
+La documentación completa de la API se encuentra disponible mediante **Swagger UI** en:
+
+🔗 [https://localhost:7144/swagger/index.html](https://localhost:7144/swagger/index.html)
+
+Archivo JSON del esquema OAS3:
 
 ## 📄 Troubleshooting and Common Issues
 
