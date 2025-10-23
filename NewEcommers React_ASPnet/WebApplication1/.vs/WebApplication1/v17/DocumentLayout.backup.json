@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\wwwroot\\images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:wwwroot\\images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\wwwroot\\images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:wwwroot\\images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\wwwroot\\images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:wwwroot\\images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\productuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\productuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\registrerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\registrerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|c:\\users\\personal\\documents\\1.personal\\3 desarrollos\\5. repositorio\\asp net web\\newecommers react_aspnet\\webapplication1\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B9E9E-4CDB-4240-9327-18EDD17DD407}|WebApplication1.csproj|solutionrelative:models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T18:53:37.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T18:54:02.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:54:51.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:55:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:59:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:01:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:03:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\OrderItems.cs",
+              "RelativeToolTip": "Models\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:05:28.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAADwv90AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:30:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\DAL.cs",
+              "RelativeDocumentMoniker": "Models\\DAL.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\DAL.cs",
+              "RelativeToolTip": "Models\\DAL.cs",
+              "ViewState": "AgIAAEAEAAAAAAAAAAAwwIYEAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:31:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:34:05.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAmwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:01:25.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T22:24:53.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:24:58.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:58:51.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\RegistrerRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrerRequest.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\RegistrerRequest.cs",
+              "RelativeToolTip": "Models\\RegistrerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:11:55.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:21:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\ProductUploadRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ProductUploadRequest.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\ProductUploadRequest.cs",
+              "RelativeToolTip": "Models\\ProductUploadRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:01:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg",
+              "RelativeToolTip": "wwwroot\\Images\\bebebe68-bf12-4e10-b7f1-b1955948c319.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-21T21:36:16.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg",
+              "RelativeToolTip": "wwwroot\\Images\\10c0f175-bcd9-4487-976d-b49fe7800dd2.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-21T21:36:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\wwwroot\\Images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg",
+              "RelativeToolTip": "wwwroot\\Images\\1cb707b8-1183-4f4c-a91c-c057d33c4003.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-21T21:36:21.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\OrderRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\OrderRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\OrderRequestDTO.cs",
+              "RelativeToolTip": "Models\\OrderRequestDTO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwDEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:56:00.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Personal\\Documents\\1.Personal\\3 Desarrollos\\5. Repositorio\\ASP NET web\\NewEcommers React_ASPnet\\WebApplication1\\Models\\UserUpdateDTO.cs",
+              "RelativeToolTip": "Models\\UserUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:21:10.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
