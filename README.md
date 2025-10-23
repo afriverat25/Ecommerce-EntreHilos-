@@ -1,8 +1,8 @@
 # 🧶 EntreHilosCrochet - E-commerce System
 
-## 📋 Descripción
-Este proyecto es una aplicación web desarrollada en **.NET 8 (Web API)** y **React**, que permite la gestión completa de una tienda en línea enfocada en productos artesanales de crochet.  
-Cuenta con dos paneles de control (dashboards): uno para **usuarios** y otro para **administradores**, cada uno con diferentes permisos y funcionalidades.
+## 📋 Description
+This project is a web application developed with **.NET 8 (Web API)** and **React**, designed to manage a complete online store focused on handcrafted crochet products.  
+It includes two main dashboards: one for **users** and one for **administrators**, each with distinct permissions and functionalities.
 
 ***
 
@@ -70,68 +70,66 @@ Follow these steps to set up both the backend and frontend on your local environ
 2.  The application will open in your browser, typically at `http://localhost:3000/`.
 
 ***
+## 🧭 System Dashboards
 
-## 🧭 Dashboards del Sistema
+### 👤 User Dashboard
 
-### 👤 Dashboard de Usuario
+The **User Dashboard** allows customers to register, log in, and make purchases easily.
 
-El **dashboard de usuario** permite a los clientes registrarse, iniciar sesión y realizar compras de manera sencilla.
+**Main Features:**
+- User registration and login.  
+- Profile management and updates.  
+- Product browsing and viewing.  
+- Add products to the shopping cart.  
+- Place orders and view order history.  
 
-**Funciones principales:**
-- Registro e inicio de sesión.  
-- Edición del perfil de usuario.  
-- Visualización y exploración de productos.  
-- Agregar productos al carrito de compras.  
-- Realizar pedidos y consultar su historial.  
-
-**APIs relacionadas:**
-| Método | Endpoint | Descripción |
+**Related APIs:**
+| Method | Endpoint | Description |
 |--------|-----------|-------------|
-| POST | `/api/Users/registration` | Registro de usuario |
-| POST | `/api/Users/login` | Inicio de sesión |
-| POST | `/api/Users/updateProfile` | Actualizar perfil |
-| GET | `/api/Users/getUserProfile/{userId}` | Obtener perfil de usuario |
-| POST | `/api/Products/addToCar` | Agregar producto al carrito |
-| POST | `/api/Products/placeOrder` | Realizar pedido |
-| GET | `/api/Users/getOrdersByUserId/{userId}` | Consultar órdenes del usuario |
+| POST | `/api/Users/registration` | Register a new user |
+| POST | `/api/Users/login` | User login |
+| POST | `/api/Users/updateProfile` | Update user profile |
+| GET | `/api/Users/getUserProfile/{userId}` | Get user profile |
+| POST | `/api/Products/addToCar` | Add product to cart |
+| POST | `/api/Products/placeOrder` | Place an order |
+| GET | `/api/Users/getOrdersByUserId/{userId}` | Get user’s order history |
 
 ---
 
-### 🛠️ Dashboard de Administrador
+### 🛠️ Admin Dashboard
 
-El **dashboard de administrador** está diseñado para gestionar todo el sistema, incluyendo usuarios, productos y pedidos.
+The **Admin Dashboard** is designed for system management, including products, users, and orders.
 
-**Funciones principales:**
-- Crear, editar o eliminar productos.  
-- Subir imágenes de productos.  
-- Consultar usuarios registrados.  
-- Asignar roles y administrar fondos.  
-- Visualizar, actualizar o eliminar pedidos.  
+**Main Features:**
+- Create, edit, or delete products.  
+- Upload product images.  
+- View and manage registered users.  
+- Assign roles and add user funds.  
+- View, update, or delete orders.  
 
-**APIs relacionadas:**
-| Método | Endpoint | Descripción |
+**Related APIs:**
+| Method | Endpoint | Description |
 |--------|-----------|-------------|
-| POST | `/api/Admin/addUpdateProduct` | Crear o actualizar producto |
-| POST | `/api/Admin/addUpdateProductWithFile` | Crear/editar producto con imagen |
-| GET | `/api/Admin/getAllProducts` | Listar todos los productos |
-| DELETE | `/api/Admin/deleteProduct/{id}` | Eliminar producto |
-| GET | `/api/Admin/userList` | Listar usuarios |
-| PUT | `/api/Admin/updateRole` | Cambiar rol de usuario |
-| PUT | `/api/Admin/addFunds` | Agregar fondos a usuario |
-| GET | `/api/Admin/getAllOrders` | Listar todas las órdenes |
-| PUT | `/api/Admin/updateStatus/{orderId}/{newStatus}` | Actualizar estado de orden |
-| DELETE | `/api/Admin/deleteUser/{id}` | Eliminar usuario |
-| DELETE | `/api/Admin/deleteOrder/{orderId}` | Eliminar orden |
+| POST | `/api/Admin/addUpdateProduct` | Create or update product |
+| POST | `/api/Admin/addUpdateProductWithFile` | Create/update product with image |
+| GET | `/api/Admin/getAllProducts` | List all products |
+| DELETE | `/api/Admin/deleteProduct/{id}` | Delete product |
+| GET | `/api/Admin/userList` | Get all users |
+| PUT | `/api/Admin/updateRole` | Update user role |
+| PUT | `/api/Admin/addFunds` | Add user funds |
+| GET | `/api/Admin/getAllOrders` | Get all orders |
+| PUT | `/api/Admin/updateStatus/{orderId}/{newStatus}` | Update order status |
+| DELETE | `/api/Admin/deleteUser/{id}` | Delete user |
+| DELETE | `/api/Admin/deleteOrder/{orderId}` | Delete order |
 
 ---
 
-## 🌐 Documentación de la API
+## 🌐 API Documentation
 
-La documentación completa de la API se encuentra disponible mediante **Swagger UI** en:
+Full API documentation is available through **Swagger UI**:
 
 🔗 [https://localhost:7144/swagger/index.html](https://localhost:7144/swagger/index.html)
 
-Archivo JSON del esquema OAS3:
 
 ## 📄 Troubleshooting and Common Issues
 
